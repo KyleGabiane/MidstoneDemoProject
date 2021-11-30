@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Free Pixel Art Forest\Demo\MoveBackground.cs" />
+    <Compile Include="Assets\Code\MainMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Free Pixel Art Forest\Contact.txt" />
